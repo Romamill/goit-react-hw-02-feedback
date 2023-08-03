@@ -18,7 +18,7 @@ const ContentContainer = styled.div`
   text-align: center;
   padding: 20px;
   border: 2px solid #ccc;
-  transform: scale(4);
+  transform: scale(2);
 `;
 
 
